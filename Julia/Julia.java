@@ -88,7 +88,7 @@ public class Mandelbrot3_3 {
             
         //Enregistrement de l'image
         try {
-            File outputfile = new File("your_directory/mandelbrot.png");
+            File outputfile = new File("your_directory/julia.png");
             ImageIO.write(image, "png", outputfile);
         }
         catch (IOException e) {
