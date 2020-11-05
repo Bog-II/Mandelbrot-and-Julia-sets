@@ -11,7 +11,7 @@ import java.awt.*;
 import java.io.File;
 import java.io.IOException;
 
-public class Mandelbrot3_3 { 
+public class Mandelbrot { 
 
     /**
      * appartenancePointEnsemble
