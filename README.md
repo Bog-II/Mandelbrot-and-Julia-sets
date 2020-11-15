@@ -1,7 +1,4 @@
 # Mandelbrot-and-Julia-sets
-
-<img src="/Julia/animation_julia.gif" alt="Julia set" width="350">
-
 Here is our code to print the Mandelbrot and Julia sets. The code "julia_animation" allows to create an animation of the variation of the Julia sets
 
 Pour compiler : 
@@ -19,3 +16,4 @@ Exemple :
  
 Le programme "appartenance" montre le fonctionne de la fonction "AppartenanceMandelbrot". Il permet de dire si un point appartient ou non à l'ensemble. Dans les progammes finaux, lorsqu'il n'appartient pas à l'ensemble, on retourne le nombre d'itérations qu'il a fait afin de déterminer sa couleur.
 
+<img src="/Julia/animation_julia.gif" alt="Julia set" width="350">
