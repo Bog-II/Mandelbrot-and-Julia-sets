@@ -16,4 +16,6 @@ Exemple :
  
 Le programme "appartenance" montre le fonctionne de la fonction "AppartenanceMandelbrot". Il permet de dire si un point appartient ou non à l'ensemble. Dans les progammes finaux, lorsqu'il n'appartient pas à l'ensemble, on retourne le nombre d'itérations qu'il a fait afin de déterminer sa couleur.
 
+
+Julia set :
 <img src="/Julia/animation_julia.gif" alt="Julia set" width="350">
