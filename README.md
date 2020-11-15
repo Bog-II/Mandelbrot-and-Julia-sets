@@ -18,6 +18,8 @@ Le programme "appartenance" montre le fonctionne de la fonction "AppartenanceMan
 
 
 
+
+
 Julia set :
 
 <img src="/Julia/animation_julia.gif" alt="Julia set" width="350">
