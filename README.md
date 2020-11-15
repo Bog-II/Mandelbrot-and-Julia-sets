@@ -1,6 +1,6 @@
 # Mandelbrot-and-Julia-sets
 
-![Julia set](/Julia/animation_julia.gif?raw=true "Julia set")
+<img src="/Julia/animation_julia.gif" alt="Julia set" width="350" height="350">
 
 Here is our code to print the Mandelbrot and Julia sets. The code "julia_animation" allows to create an animation of the variation of the Julia sets
 
